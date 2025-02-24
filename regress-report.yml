@@ -1,1 +1,9 @@
+---
+test-cases:
+  - summary: |
+      Не отображается иконка флага при выборе языка (English)
+    status: pass
+
+
+bugreports: []
 
